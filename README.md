@@ -1,4 +1,4 @@
-# Js2Coffee
+# JavaSript to CoffeeScript
 
 [![Check this project's build status on TravisCI](https://secure.travis-ci.org/rstacruz/js2coffee.png?branch=master)](http://travis-ci.org/rstacruz/js2coffee)
 [![View this project's NPM page](https://badge.fury.io/js/js2coffee.png)](https://npmjs.org/package/js2coffee)
@@ -8,14 +8,14 @@ A JavaScript to [CoffeeScript](http://coffeescript.org/) compiler
 
 ## Install
 
-  npm install -g js2coffee
+  npm install -g javascript-to-coffeescript
 
 
 ## Usage
 
-	js2coffee input_file.js
-	js2coffee input_file.js > output.coffee
-	cat input.js | js2coffee
+	javascript-to-coffeescript input_file.js
+	javascript-to-coffeescript input_file.js > output.coffee
+	cat input.js | javascript-to-coffeescript
 
 
 ## Development
